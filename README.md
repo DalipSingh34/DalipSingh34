@@ -29,26 +29,26 @@
 ### 🏥 Hospital Management System
 - Developed backend to manage patient & employee data  
 - Implemented REST APIs and CRUD operations  
-🔗 https://github.com/megamind-prog/Hospital-management-system
+🔗 https://github.com/DalipSingh34/Hospital-management-system
 
 ---
 
 ### 🏨 Hotel Management System
 - Backend system for managing customer & staff data  
-🔗 https://github.com/megamind-prog/hotel-management-system
+🔗 https://github.com/DalipSingh34/hotel-management-system
 
 ---
 
 ### 🎓 Student-Teacher CRM
 - API-based system to handle student & teacher records  
-🔗 https://github.com/megamind-prog/Student-Teacher-CRM-Project
+🔗 https://github.com/DalipSingh34/Student-Teacher-CRM-Project
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=megamind-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megamind-prog&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DalipSingh34&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DalipSingh34&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 <p align="center">
   <a href="mailto:dalipsingh34@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/dalip-singh34"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/megamind-prog"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/DalipSingh34"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -69,5 +69,5 @@
 
 <!-- 🐍 Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/megamind-prog/megamind-prog/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/DalipSingh34/DalipSingh34/output/snake.svg" />
 </p>
