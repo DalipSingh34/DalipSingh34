@@ -64,10 +64,3 @@
 
 ## ⚡ Fun Fact
 🎮 Gaming | ✈️ Travelling | 💡 Love building backend systems
-
----
-
-<!-- 🐍 Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DalipSingh34/DalipSingh34/output/snake.svg" />
-</p>
