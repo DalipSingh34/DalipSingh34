@@ -26,6 +26,15 @@
 
 ## 🚀 Featured Projects
 
+### 📊 Tube Analytics
+- Full-stack MERN YouTube Analytics Dashboard
+- Fetches real-time YouTube data using YouTube Data API v3
+- Performs sentiment analysis on comments (Positive / Negative / Neutral)
+- Displays interactive charts using Recharts (Pie & Bar charts)
+- JWT authentication with protected routes
+- Stores search history and provides analytics dashboard
+🔗 https://github.com/DalipSingh34/Tube-Analytics
+
 ### 🏥 Hospital Management System
 - Developed backend to manage patient & employee data  
 - Implemented REST APIs and CRUD operations  
