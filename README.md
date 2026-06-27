@@ -5,13 +5,13 @@
 
 <!-- 👋 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Web+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+APIs;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Node.js+%7C+Express.js+%7C+MongoDB;React.js+%7C+Python;Building+Scalable+APIs;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-💻 Backend Web Developer with hands-on experience in building scalable applications using Node.js, Express.js, and MongoDB.  
+💻 MERN Stack Developer with hands-on experience in building scalable applications using Node.js, Express.js, and MongoDB.  
 🚀 Strong focus on REST APIs, backend logic, and database design.  
 🎯 Goal: Become a Full Stack Developer and work on impactful real-world systems.
 
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,python,git,github,postman" />
 </p>
 
 ---
@@ -63,4 +63,5 @@
 ---
 
 ## ⚡ Fun Fact
-🎮 Gaming | ✈️ Travelling | 💡 Love building backend systems
+🎮 Gaming | ✈️ Travelling | 
+💻 MERN Stack enthusiast | 🚀 Loves building scalable web apps | 🧠 Always exploring new technologies in React, Node.js, and Python
